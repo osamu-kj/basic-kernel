@@ -32,5 +32,5 @@ It is as simple as just typing: <br>
 
 ## Warning 
 If you have any questions or trouble in understanding the code you can shoot me a message on my instagram page or on my email, I should reply in a 1-3 days
- - Instagram: https://instagram.com/kevinj____
+ - <a href="https://instagram.com/kevinj____">Instagram</a>
  - Email: kevin.jerebica@gmail.com

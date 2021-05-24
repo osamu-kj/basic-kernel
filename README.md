@@ -30,7 +30,8 @@ It is as simple as just typing: <br>
 1) Move into the ```/output_files``` directory with ```cd ./output_files``` <br>
 2) Run the qemu-system-i386 program on the outputted file ("system") ```qemu-system-i386 -kernel system``` 
 
+
 ### Warning 
-If you have any questions or trouble in understanding the code you can shoot me a message on my instagram page or on my email, I should reply in a 1-3 days
- - <a href="https://instagram.com/kevinj____">Instagram</a>
- - Email: kevin.jerebica@gmail.com
+If you have any questions or trouble in understanding the code you can shoot me a message on my instagram page or on my email, I should reply in 1-3 days.<br>
+ -> <a href="https://instagram.com/kevinj____">Instagram</a><br>
+ -> Email: kevin.jerebica@gmail.com<br>
